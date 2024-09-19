@@ -1,0 +1,14 @@
+D:\Development\BloodBankManagement\bin\Debug\net8.0\BloodBankManagement.exe
+D:\Development\BloodBankManagement\bin\Debug\net8.0\BloodBankManagement.deps.json
+D:\Development\BloodBankManagement\bin\Debug\net8.0\BloodBankManagement.runtimeconfig.json
+D:\Development\BloodBankManagement\bin\Debug\net8.0\BloodBankManagement.dll
+D:\Development\BloodBankManagement\bin\Debug\net8.0\BloodBankManagement.pdb
+D:\Development\BloodBankManagement\obj\Debug\net8.0\BloodBankManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\BloodBankManagement\obj\Debug\net8.0\BloodBankManagement.AssemblyInfoInputs.cache
+D:\Development\BloodBankManagement\obj\Debug\net8.0\BloodBankManagement.AssemblyInfo.cs
+D:\Development\BloodBankManagement\obj\Debug\net8.0\BloodBankManagement.csproj.CoreCompileInputs.cache
+D:\Development\BloodBankManagement\obj\Debug\net8.0\BloodBankManagement.dll
+D:\Development\BloodBankManagement\obj\Debug\net8.0\refint\BloodBankManagement.dll
+D:\Development\BloodBankManagement\obj\Debug\net8.0\BloodBankManagement.pdb
+D:\Development\BloodBankManagement\obj\Debug\net8.0\BloodBankManagement.genruntimeconfig.cache
+D:\Development\BloodBankManagement\obj\Debug\net8.0\ref\BloodBankManagement.dll
